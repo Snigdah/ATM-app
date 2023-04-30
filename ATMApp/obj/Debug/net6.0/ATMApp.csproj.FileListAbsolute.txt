@@ -1,0 +1,15 @@
+D:\ATMApp\ATMApp\bin\Debug\net6.0\ATMApp.exe
+D:\ATMApp\ATMApp\bin\Debug\net6.0\ATMApp.deps.json
+D:\ATMApp\ATMApp\bin\Debug\net6.0\ATMApp.runtimeconfig.json
+D:\ATMApp\ATMApp\bin\Debug\net6.0\ATMApp.dll
+D:\ATMApp\ATMApp\bin\Debug\net6.0\ref\ATMApp.dll
+D:\ATMApp\ATMApp\bin\Debug\net6.0\ATMApp.pdb
+D:\ATMApp\ATMApp\obj\Debug\net6.0\ATMApp.csproj.AssemblyReference.cache
+D:\ATMApp\ATMApp\obj\Debug\net6.0\ATMApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\ATMApp\ATMApp\obj\Debug\net6.0\ATMApp.AssemblyInfoInputs.cache
+D:\ATMApp\ATMApp\obj\Debug\net6.0\ATMApp.AssemblyInfo.cs
+D:\ATMApp\ATMApp\obj\Debug\net6.0\ATMApp.csproj.CoreCompileInputs.cache
+D:\ATMApp\ATMApp\obj\Debug\net6.0\ATMApp.dll
+D:\ATMApp\ATMApp\obj\Debug\net6.0\ref\ATMApp.dll
+D:\ATMApp\ATMApp\obj\Debug\net6.0\ATMApp.pdb
+D:\ATMApp\ATMApp\obj\Debug\net6.0\ATMApp.genruntimeconfig.cache
